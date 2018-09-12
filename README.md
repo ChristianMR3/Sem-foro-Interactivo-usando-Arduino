@@ -1,4 +1,4 @@
-# Sem-foro-Interactivo-usando-Arduino
+# Semaforo-Interactivo-usando-Arduino
 Este muestra un conjunto de semáforos que cambian de verde a ámbar a rojo, y viceversa, 
 luego de un período de tiempo establecido, utilizando el sistema de cuatro estados de los semáforos en México. 
 Este se extiende para incluir un conjunto de luces y un botón peatonal para solicitar cruzar la calle.
